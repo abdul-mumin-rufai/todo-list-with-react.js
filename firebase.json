@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "rufai-projects-todos-app-with-react-js",
     "public": "dist",
     "ignore": [
       "firebase.json",
